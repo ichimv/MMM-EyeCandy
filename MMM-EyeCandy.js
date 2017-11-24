@@ -17,7 +17,7 @@ Module.register("MMM-EyeCandy", {
 		self = this;
 		this.url = '';
 		this.eyesUrls = {
-			'1': 'https://media.giphy.com/media/l9eTgC1GpyEZq/giphy.gif',
+			'1': 'https://cdn.dribbble.com/users/1438281/screenshots/3723200/09.gif',
 			'2': 'http://www.animatedimages.org/data/media/35/animated-eye-image-0006.gif',
 			'3': 'http://www.animatedimages.org/data/media/35/animated-eye-image-0013.gif',
 			'4': 'http://www.animatedimages.org/data/media/35/animated-eye-image-0004.gif',
