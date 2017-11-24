@@ -9,7 +9,7 @@ Module.register("MMM-EyeCandy", {
 	// Default module config.
 	defaults: {
 		style: '1',                     // 1-52
-		ownImagePath: '',               // Overrides style. Local path or internet URL's.
+		ownImagePath: 'pix\1.gif',               // Overrides style. Local path or internet URL's.
 		updateInterval: 60 * 60 * 1000  // Use css file to adjust size of images. It's easy.
 	},
 
